@@ -1,6 +1,7 @@
 import logging
 
 import azure.functions as func
+import random
 
 #ランダムで生成する
 def createJanken():
